@@ -1,0 +1,70 @@
+{
+  "slug": "body-clock",
+  "url": "https://nanalab.kr/body-clock/",
+  "titles": {
+    "ko": "시계 없이 10초, 정확히 멈출 수 있을까?",
+    "en": "Can you stop at exactly ten seconds without a clock?",
+    "zh": "不看时钟，你能准确数到十秒吗？",
+    "es": "¿Puedes parar a los diez segundos sin mirar un reloj?"
+  },
+  "descriptions": {
+    "ko": "혼자 즐기고 나만의 결과를 공유하는 작은 게임.",
+    "en": "A small solo game. Play, discover your result, and share.",
+    "zh": "独自挑战，看看自己的成绩，再分享给朋友。",
+    "es": "Un juego para ti. Descubre tu resultado y compártelo."
+  },
+  "color": "#267861",
+  "cardLines": {
+    "ko": [
+      "숫자 없이 10초.",
+      "당신의 감각은?"
+    ],
+    "en": [
+      "Ten seconds. No clock.",
+      "How close can you get?"
+    ],
+    "zh": [
+      "不看数字，数十秒。",
+      "你的感觉有多准？"
+    ],
+    "es": [
+      "Diez segundos, sin reloj.",
+      "¿Cuánto te acercas?"
+    ]
+  },
+  "brands": {
+    "ko": "10초 몸속 시계",
+    "en": "The Inner Clock",
+    "zh": "身体里的十秒钟",
+    "es": "Tu reloj interior"
+  },
+  "hero": {
+    "en": {
+      "first": "Ten seconds. No clock.",
+      "last": "Can you stop right on time?",
+      "intro": [
+        "No ticking hands. No countdown.",
+        "Stop the moment you think ten seconds have passed.",
+        "Three rounds reveal your average timing error."
+      ]
+    },
+    "zh": {
+      "first": "不看时钟数十秒，",
+      "last": "你能分秒不差地停下吗？",
+      "intro": [
+        "没有秒针，也没有倒计时。",
+        "感觉过了十秒，就按下停止。",
+        "挑战三轮，看看你的平均误差。"
+      ]
+    },
+    "es": {
+      "first": "Diez segundos, sin reloj.",
+      "last": "¿Puedes parar justo a tiempo?",
+      "intro": [
+        "Sin agujas ni cuenta atrás.",
+        "Para cuando creas que han pasado diez segundos.",
+        "Tres rondas revelan tu error medio."
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "body-clock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/locales/*.test.js tests/integrity.test.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

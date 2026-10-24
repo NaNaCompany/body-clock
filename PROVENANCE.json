@@ -1,0 +1,25 @@
+{
+  "source": "NaNaCompany original approved solo-game prototype",
+  "sourcePath": "sites/body-clock/dist",
+  "copyright": "Original game code and CSS/SVG/Canvas artwork by NaNa Lab. No third-party game artwork or fonts.",
+  "thirdPartyBuild": [
+    {
+      "name": "Sharp",
+      "url": "https://sharp.pixelplumbing.com/",
+      "license": "Apache-2.0",
+      "purpose": "Build-time generation of original 1200x630 JPEG cards; not shipped as browser runtime."
+    }
+  ],
+  "integrations": [
+    {
+      "name": "GeoJS",
+      "url": "https://www.geojs.io/",
+      "purpose": "Optional IP country lookup for a language suggestion; no forced redirect; browser-language fallback."
+    },
+    {
+      "name": "NaNa publisher scripts",
+      "purpose": "AdSense, Google Tag Manager, Google Analytics, Cloudflare Insights. Same publisher IDs as the existing NaNa sites."
+    }
+  ],
+  "translation": "Static Korean/English/Simplified Chinese/Spanish strings; machine-assisted translation with manually edited titles, card prompts, units, object labels and proper names. No original user documents are sent for translation."
+}
